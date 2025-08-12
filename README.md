@@ -44,7 +44,7 @@
 - [**Controle de Gastos**](https://github.com/Nilson-Rodrigo/controle-de-gastos) – Sistema de controle financeiro com **TypeScript**
 - [**Objetos em Java**](https://github.com/Nilson-Rodrigo/Objetos) – Prática de POO
 - [**Gerador de Números Aleatórios**](https://github.com/Nilson-Rodrigo/gerador_de_numeros_aleat-rios) – HTML, CSS e JS
-- [**Atividades de algorritmos do módulo 1 de Análise se Dsesenvolvimento de Sistemas**](https://github.com/Nilson-Rodrigo/gerador_de_numeros_aleat-rios) – HTML, CSS e JS
+- [**Atividades de algorritmos do módulo 1 de Análise se Dsesenvolvimento de Sistemas**]([https://github.com/Nilson-Rodrigo/gerador_de_numeros_aleat-rios](https://github.com/Nilson-Rodrigo/modulo1.git)) - Typescript
 
 ---
 
