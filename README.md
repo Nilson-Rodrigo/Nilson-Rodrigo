@@ -19,7 +19,7 @@
   <a href="mailto:nilsonrodrigues818@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin">
+  <a href="www.linkedin.com/in/nilsonrodrigo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -44,6 +44,7 @@
 - [**Controle de Gastos**](https://github.com/Nilson-Rodrigo/controle-de-gastos) – Sistema de controle financeiro com **TypeScript**
 - [**Objetos em Java**](https://github.com/Nilson-Rodrigo/Objetos) – Prática de POO
 - [**Gerador de Números Aleatórios**](https://github.com/Nilson-Rodrigo/gerador_de_numeros_aleat-rios) – HTML, CSS e JS
+- [**Atividades de algorritmos do módulo 1 de Análise se Dsesenvolvimento de Sistemas**](https://github.com/Nilson-Rodrigo/gerador_de_numeros_aleat-rios) – HTML, CSS e JS
 
 ---
 
