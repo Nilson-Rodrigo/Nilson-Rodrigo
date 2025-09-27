@@ -1,4 +1,4 @@
-# Olá! Eu sou Nilson Rodrigo ([github.com/Nilson-Rodrigo](https://github.com/Nilson-Rodrigo)) 👋
+# Olá! Eu sou Nilson Rodrigo 👋
 Estudante de **Análise e Desenvolvimento de Sistemas** no IFPI e apaixonado por **desenvolvimento backend**.  
 Atualmente aprofundo meus estudos em **estrutura de dados** e **Programação Orientada a Objetos com TypeScript**, aplicando práticas modernas de desenvolvimento para criar projetos escaláveis.
 
