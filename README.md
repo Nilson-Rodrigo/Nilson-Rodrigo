@@ -37,7 +37,5 @@ Minha meta é unir *lógica de programação sólida* a soluções inovadoras e 
 ## 🧠 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilson-Rodrigo&layout=compact&theme=dark)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nilson-Rodrigo/Nilson-Rodrigo/output/snake.svg" alt="Snake animation" />
-</div>
+
 
