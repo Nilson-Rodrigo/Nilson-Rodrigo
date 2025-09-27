@@ -1,51 +1,39 @@
-<h1 align="center">Olá, eu sou o Nilson Rodrigo 👋</h1>
-
-<p align="center">
-  <em>Estudante de Desenvolvimento Backend | Java & TypeScript</em>
-</p>
+# Olá! Eu sou Nilson Rodrigo ([github.com/Nilson-Rodrigo](https://github.com/Nilson-Rodrigo)) 👋
+Estudante de **Análise e Desenvolvimento de Sistemas** no IFPI e apaixonado por **desenvolvimento backend**.  
+Atualmente aprofundo meus estudos em **estrutura de dados** e **Programação Orientada a Objetos com TypeScript**, aplicando práticas modernas de desenvolvimento para criar projetos escaláveis.
 
 ---
 
-### 🚀 Sobre mim
-- 💻 Foco em **Desenvolvimento Backend** com **TypeScript** e **Java**  
-- 📚 Atualmente aprendendo **POO, Git/GitHub e boas práticas de programação**  
-- 🎯 Em busca de oportunidades de **estágio na área de desenvolvimento**  
+## 🏢 Atuação Profissional
+- **Embaixador da DIO**: apoio a comunidades de tecnologia e participação em desafios de programação.  
+- Desenvolvimento de projetos pessoais em **Node.js/TypeScript** e **Java**, incluindo controle de dados e resoluções de algoritmos.  
+- Prática constante em plataformas como **LeetCode**, **freeCodeCamp**, **Beecrowd** e **Neps Academy** para aprimorar lógica e programação competitiva.
 
 ---
 
-### 📬 Contato
-
-<p align="center">
-  <a href="mailto:nilsonrodrigues818@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nilsonrodrigo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## 📱 Especialidades
+- **Linguagens:** JavaScript, TypeScript, Java  
+- **Backend:** Node.js (básico)
+- **Ferramentas:** Git, GitHub, VS Code  
+- **Conceitos:** Estrutura de Dados, POO, programação competitiva, boas práticas de código
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
+## 🚀 O que me motiva
+Busco uma **vaga de estágio em desenvolvimento backend**, onde possa aplicar meus conhecimentos em **JS, TS e Java**, contribuir com a equipe e evoluir como profissional.  
+Minha meta é unir **lógica de programação sólida** a soluções inovadoras e escaláveis.
 
 ---
 
-### 📂 Projetos em destaque
-- [**Controle de Gastos**](https://github.com/Nilson-Rodrigo/controle-de-gastos) – Sistema de controle financeiro com **TypeScript**
-- [**Objetos em Java**](https://github.com/Nilson-Rodrigo/Objetos) – Prática de POO
-- [**Gerador de Números Aleatórios**](https://github.com/Nilson-Rodrigo/gerador_de_numeros_aleat-rios) – HTML, CSS e JS
-- [**Atividades de algorritmos do módulo 1 de Análise se Dsesenvolvimento de Sistemas](https://github.com/Nilson-Rodrigo/modulo1.git)) - Typescript
+## 📌 Projetos em Destaque
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-Rodrigo&repo=algoritmos-typescript&theme=dark)](https://github.com/Nilson-Rodrigo/algoritmos-typescript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-Rodrigo&repo=controle-de-gastos&theme=dark)](https://github.com/Nilson-Rodrigo/controle-de-gastos)
 
 ---
 
-⭐ _Se gostou do meu trabalho, não esqueça de deixar uma estrela nos repositórios!_
+## 📊 GitHub Stats
+![Nilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nilson-Rodrigo&show_icons=true&theme=dark)
+
+## 🧠 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilson-Rodrigo&layout=compact&theme=dark)
+
