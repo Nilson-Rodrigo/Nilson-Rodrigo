@@ -13,11 +13,39 @@ Atualmente aprofundo meus estudos em **estrutura de dados** e **Programação Or
 
 ## 📱 Especialidades
 - **Linguagens:** JavaScript, TypeScript, Java  
-- **Backend:** Node.js (básico)
+- **Backend:** Node.js (básico)  
 - **Ferramentas:** Git, GitHub, VS Code  
 - **Conceitos:** Estrutura de Dados, POO, programação competitiva, boas práticas de código
 
 ---
+
+## 🚀 O que me motiva
+Busco uma **vaga de estágio em desenvolvimento backend**, onde possa aplicar meus conhecimentos em **JS, TS e Java**, contribuir com a equipe e evoluir como profissional.  
+Minha meta é unir **lógica de programação sólida** a soluções inovadoras e escaláveis.
+
+---
+
+## 📌 Projetos em Destaque
+[![Algoritmos TypeScript](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-Rodrigo&repo=modulo1&theme=dark)](https://github.com/Nilson-Rodrigo/modulo1)
+[![Controle de Gastos](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-Rodrigo&repo=controle-de-gastos&theme=dark)](https://github.com/Nilson-Rodrigo/controle-de-gastos)
+
+---
+
+## 🐍 Jogo da Cobrinha
+Confira meu projeto do clássico jogo da cobrinha em **JavaScript/TypeScript**:  
+
+[![Jogue o Snake](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)](https://seu-link-para-o-jogo.netlify.app)
+
+> 💡 **Dica:** Hospede seu jogo no **GitHub Pages** ou **Netlify** para criar o link interativo.
+
+---
+
+## 📊 GitHub Stats
+![Nilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nilson-Rodrigo&show_icons=true&theme=dark)
+
+## 🧠 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilson-Rodrigo&layout=compact&theme=dark)
+
 
 ## 🚀 O que me motiva
 Busco uma **vaga de estágio em desenvolvimento backend**, onde possa aplicar meus conhecimentos em **JS, TS e Java**, contribuir com a equipe e evoluir como profissional.  
