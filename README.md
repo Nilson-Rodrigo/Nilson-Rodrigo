@@ -1,41 +1,38 @@
-# Olá! Eu sou Nilson Rodrigo 👋
-Estudante de *Análise e Desenvolvimento de Sistemas* no IFPI e apaixonado por *desenvolvimento backend*.  
-Atualmente aprofundo meus estudos em *estrutura de dados* e *Programação Orientada a Objetos com TypeScript*, aplicando práticas modernas de desenvolvimento para criar projetos escaláveis.
+# Hello! I'm Nilson Rodrigo 👋  
+Undergraduate Student in *Systems Analysis and Development* at the Federal Institute of Piauí (IFPI), passionate about *backend development*.  
+I am currently deepening my studies in *data structures* and *Object-Oriented Programming with TypeScript*, applying modern development practices to build scalable projects.
 
 ---
 
-## 🏢 Atuação Profissional
-- *Embaixador da DIO*: apoio a comunidades de tecnologia e participação em desafios de programação.  
-- Desenvolvimento de projetos pessoais em *Node.js/TypeScript* e *Java*, incluindo controle de dados e resoluções de algoritmos.  
-- Prática constante em plataformas como *LeetCode, **freeCodeCamp, **Beecrowd* e *Neps Academy* para aprimorar lógica e programação competitiva.
+## 🏢 Professional Experience  
+- **DIO Ambassador**: supporting tech communities and participating in programming challenges.  
+- Development of personal projects in **Node.js/TypeScript** and **Java**, including data management tools and algorithm solutions.  
+- Constant practice on platforms such as **LeetCode, freeCodeCamp, Beecrowd,** and **Neps Academy** to improve logic and competitive programming skills.
 
 ---
 
-## 📱 Especialidades
-- *Linguagens:* JavaScript, TypeScript, Java  
-- *Backend:* Node.js (básico)
-- *Ferramentas:* Git, GitHub, VS Code  
-- *Conceitos:* Estrutura de Dados, POO, programação competitiva, boas práticas de código
+## 📱 Skills  
+- **Languages:** JavaScript, TypeScript, Java  
+- **Backend:** Node.js (basic)  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:** Data Structures, OOP, Competitive Programming, Clean Code Practices
 
 ---
 
-## 🚀 O que me motiva
-Busco uma *vaga de estágio em desenvolvimento backend, onde possa aplicar meus conhecimentos em **JS, TS e Java*, contribuir com a equipe e evoluir como profissional.  
-Minha meta é unir *lógica de programação sólida* a soluções inovadoras e escaláveis.
+## 🚀 What Drives Me  
+I am looking for an **internship in backend development**, where I can apply my knowledge in **JS, TS, and Java**, contribute to the team, and grow as a professional.  
+My goal is to combine a **strong programming logic foundation** with innovative and scalable solutions.
 
 ---
 
-## 📌 Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-Rodrigo&repo=modulo1&theme=dark)](https://github.com/Nilson-Rodrigo/modulo1)
+## 📌 Featured Projects  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-Rodrigo&repo=modulo1&theme=dark)](https://github.com/Nilson-Rodrigo/modulo1)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-Rodrigo&repo=controle-de-gastos&theme=dark)](https://github.com/Nilson-Rodrigo/controle-de-gastos)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 ![Nilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nilson-Rodrigo&show_icons=true&theme=dark)
 
-## 🧠 Linguagens Mais Usadas
+## 🧠 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilson-Rodrigo&layout=compact&theme=dark)
-
-
-
