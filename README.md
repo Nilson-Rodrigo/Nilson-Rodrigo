@@ -27,7 +27,7 @@ My goal is to combine a **strong programming logic foundation** with innovative 
 
 ## 📌 Featured Projects  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-Rodrigo&repo=modulo1&theme=dark)](https://github.com/Nilson-Rodrigo/modulo1)  
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-Rodrigo&repo=controle-de-gastos&theme=dark)](https://github.com/Nilson-Rodrigo/controle-de-gastos)
 
