@@ -23,21 +23,6 @@ I am currently deepening my studies in *data structures* and *Object-Oriented Pr
 I am looking for an **internship in backend development**, where I can apply my knowledge in **JS, TS, and Java**, contribute to the team, and grow as a professional.  
 My goal is to combine a **strong programming logic foundation** with innovative and scalable solutions.
 
----
-
-## 📌 Featured Projects  
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-Rodrigo&repo=controle-de-gastos&theme=dark)](https://github.com/Nilson-Rodrigo/controle-de-gastos)
-
----
-
-## 📊 GitHub Stats  
-
-![Nilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nilson-Rodrigo&show_icons=true&theme=dark)
-
----
 
 ## 🧠 Most Used Languages  
 
